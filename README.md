@@ -1,2 +1,2 @@
 # Keeper_App
-Created with CodeSandbox
+A google keep notes clone made using React
